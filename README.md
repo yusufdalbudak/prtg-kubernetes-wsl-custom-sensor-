@@ -1,4 +1,6 @@
 # PRTG Kubernetes WSL Custom Sensor
+<img width="1895" height="855" alt="image" src="https://github.com/user-attachments/assets/d2a6d3a6-b653-462c-a6b4-c58d65c54ad9" />
+
 
 A lightweight PRTG EXE/Script Advanced Sensor for monitoring Kubernetes cluster summary metrics through WSL and `kubectl`.
 
